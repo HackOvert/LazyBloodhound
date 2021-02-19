@@ -1,0 +1,19 @@
+# File types
+*.csv
+*.log
+*.pyc
+*.vscode
+*.zip
+*.exe
+*~
+
+# Folders
+parsers/tree-sitter-*/
+
+# Specific files
+.DS_Store
+build/languages.*
+
+# Lock files
+.~lock*
+*.swp
